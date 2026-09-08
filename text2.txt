@@ -1,1 +1,3 @@
-Welcome to text2 file.
+Welcome to text2 file.This might be the random commit for testing
+Main purpose of testing is to verify login credentials are working properly or not.
+Present its in the main branch and final phase where we have just pushed the changes
